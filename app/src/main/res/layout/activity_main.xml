@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ImageButton xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    tools:context="com.bhutta.mmmglight.MainActivity"
+    android:background="@drawable/flashlight_off"
+    android:contentDescription="@string/app_name"
+    android:layout_gravity="center"
+    android:id="@+id/main_widget_id"
+    />
+

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">3MGLight</string>
+    <string name="on_off">on_off</string>
+    <string name="skip_update">skip_update</string>
+</resources>
